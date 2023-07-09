@@ -38,10 +38,13 @@ h3 {
   }
 } 
 
+.greetings {
+  max-width: 480px;
+}
 
-.greetings h1,
+
 .greetings h3,
- .greetings h6 {
+.greetings h6 {
   text-align: center;
 }
 </style>
