@@ -17,7 +17,7 @@ defineProps({
 <template>
   <div class="greetings">
     <h3>
-      "{{quote}}"
+      {{quote}}
     </h3>
     <h6 v-if="author">-{{author}}</h6>
   </div>
@@ -28,9 +28,16 @@ defineProps({
 
 h3 {
   font-size: 1.2rem;
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 
 }
+
+@media (max-width: 480px) {
+  h3 {
+    font-size: 1rem;
+  }
+} 
+
 
 .greetings h1,
 .greetings h3,

@@ -9,7 +9,20 @@ const quotes = [
   { text: "Everything is hard before it is easy." },
   { text: "Your direction is more important than your speed" },
   { text: "If one does not know to which port one is sailing, no wind is favorable.", author: "Seneca" },
-  { text: "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom", author: "Viktor Frankl" }
+  { text: "Between stimulus and response, there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom", author: "Viktor Frankl" },
+  { text: "Friendly reminder that 'doing your best' does not mean working yourself to the point of a mental breakdown.", author: "@PeacefulMindPeacefulLife" },
+  { text: "Feelings are just visitors, let them come and go", author: "Mooji" },
+  { text: "The best way out is always through", author: "Robert Frost" },
+  { text: "We suffer more in imagination that in reality", author: "Seneca" },
+  { text: "Here's the part I didn't know for a very long time: nothing was ever missing. It was just missing in the places I expected it to be & I forgot I could look for it somewhere else." },
+  { text: "Staying positive does not mean that things will turn out okay. Rather, it is knowing that YOU will be okay no matter how things turn out." },
+  { text: "In the midst of movement and chaos, keep stillness inside of you." },
+  { text: "I used to admire people with luxuries. Now I admire poeple with inner peace." },
+  { text: "I don't have to chase extraordinary oments to find ahppiness - it's right there in front of me if I'm paying attention and practicing gratitude.", author: "Brene Brown" },
+  { text: "It takes courage to say yes to rest and play in a culture where exhaustion is seen as a status symbol.", author: "Brene Brown" },
+  { text: "Rest is not idele, is not wastreful. SOmetimes rest is the most productive thing you can do for body and soul.", author: "Erica Layne" },
+  { text: "Take time today to pause, to linger, to quiet the noise and remember that your worth is not measured by your productivity." },
+  { text: "The simplicity of owning what you love, wanting what you have, and being who you are is it's own form of wealth.", author: "Lisa Avellan" },
 
 ]
 
