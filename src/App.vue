@@ -18,7 +18,7 @@ const quotes = [
   { text: "Staying positive does not mean that things will turn out okay. Rather, it is knowing that YOU will be okay no matter how things turn out." },
   { text: "In the midst of movement and chaos, keep stillness inside of you." },
   { text: "I used to admire people with luxuries. Now I admire poeple with inner peace." },
-  { text: "I don't have to chase extraordinary moments to find ahppiness - it's right there in front of me if I'm paying attention and practicing gratitude.", author: "Brene Brown" },
+  { text: "I don't have to chase extraordinary moments to find happiness - it's right there in front of me if I'm paying attention and practicing gratitude.", author: "Brene Brown" },
   { text: "It takes courage to say yes to rest and play in a culture where exhaustion is seen as a status symbol.", author: "Brene Brown" },
   { text: "Rest is not idle, is not wasteful. Sometimes rest is the most productive thing you can do for body and soul.", author: "Erica Layne" },
   { text: "Take time today to pause, to linger, to quiet the noise and remember that your worth is not measured by your productivity." },
