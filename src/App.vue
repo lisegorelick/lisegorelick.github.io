@@ -13,7 +13,7 @@ const quotes = [
   { text: "Friendly reminder that 'doing your best' does not mean working yourself to the point of a mental breakdown.", author: "@PeacefulMindPeacefulLife" },
   { text: "Feelings are just visitors, let them come and go", author: "Mooji" },
   { text: "The best way out is always through", author: "Robert Frost" },
-  { text: "We suffer more in imagination that in reality", author: "Seneca" },
+  { text: "We suffer more in imagination than in reality", author: "Seneca" },
   { text: "Here's the part I didn't know for a very long time: nothing was ever missing. It was just missing in the places I expected it to be & I forgot I could look for it somewhere else." },
   { text: "Staying positive does not mean that things will turn out okay. Rather, it is knowing that YOU will be okay no matter how things turn out." },
   { text: "In the midst of movement and chaos, keep stillness inside of you." },
@@ -23,6 +23,18 @@ const quotes = [
   { text: "Rest is not idle, is not wasteful. Sometimes rest is the most productive thing you can do for body and soul.", author: "Erica Layne" },
   { text: "Take time today to pause, to linger, to quiet the noise and remember that your worth is not measured by your productivity." },
   { text: "The simplicity of owning what you love, wanting what you have, and being who you are is it's own form of wealth.", author: "Lisa Avellan" },
+  { text: "Fall in love with taking care of yourself. Fall in love with the path of deep healing. Fall in love with becoming the best version of yourself but with patience, with compassion and respect to your own journey." , author: "s. mcnutt"},
+  { text: "Throw away the idea that you will always be happy after serious healing has taken place. Low points are natural and they do not mean you have gone backward. What shows your progress is not reacting to old triggers with the same intensity as efore and knowing not to judge yourself when your mood is turbulent or heavy.", author: "Yung Pueblo" },
+  { text: "When you get reactive, get curious. You have a wound that is asking to be healed", author: "Mark Groves" },
+  { text: "One day you'll look back and realize that you worried too much about things that don't really matter" },
+  { text: "Date yourself, first" },
+  { text: "Respect is one of the greatest expressions of love", author: "Miguel Angel Ruiz" },
+  { text: "Study your patterns. The ultimate wisdom comes from knowing your why's. Why you feel it. Why you do it. Why you repeat it. Knowing your why's gives you clarity about who you are. And when you know who you are you become powerful, dangerous and unstoppable." },
+  { text: "We all have 'issues' because we all have a story. And no matter how much work you've done on yourself, we all snap back sometimes. So be easy on you. Growth is a dance. Not a light switch." },
+  { text: "Be so completely yourself that everyone else feels safe to be themselves too." },
+  { text: "Something very beautiful happens to people when their world has fallen apart: a humility, a nobility, a higher intelligence emerges at just the point when our knees hit the floor.", author: "Marianne Williamson" },
+  { text: "Do not just slay your demons. Dissect them and find what they've been feeding on." },
+  { text: "If someone else's reaction seems out of proportion to the situation, it usually means that something else was triggered.", author: "Dr. Lauren Fogel" },
 
 ]
 
