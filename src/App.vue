@@ -24,7 +24,6 @@ const quotes = [
   { text: "Take time today to pause, to linger, to quiet the noise and remember that your worth is not measured by your productivity." },
   { text: "The simplicity of owning what you love, wanting what you have, and being who you are is it's own form of wealth.", author: "Lisa Avellan" },
   { text: "Fall in love with taking care of yourself. Fall in love with the path of deep healing. Fall in love with becoming the best version of yourself but with patience, with compassion and respect to your own journey." , author: "s. mcnutt"},
-  { text: "Throw away the idea that you will always be happy after serious healing has taken place. Low points are natural and they do not mean you have gone backward. What shows your progress is not reacting to old triggers with the same intensity as efore and knowing not to judge yourself when your mood is turbulent or heavy.", author: "Yung Pueblo" },
   { text: "When you get reactive, get curious. You have a wound that is asking to be healed", author: "Mark Groves" },
   { text: "One day you'll look back and realize that you worried too much about things that don't really matter" },
   { text: "Date yourself, first" },
