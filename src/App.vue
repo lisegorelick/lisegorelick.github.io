@@ -94,7 +94,9 @@ h1 {
   top: 0;
   width: 100%;
   padding-top: 20px;
-  }
+  border: 2px solid hsla(160, 100%, 37%, 1);;
+
+}
 
 .logo {
   display: block;
@@ -102,23 +104,22 @@ h1 {
 }
 
 .buttonContainer {
-position: fixed;
+  position: fixed;
   bottom: 0;
   width: 100%;
   padding-bottom: 20px;
-  }
+}
 
 button {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
 }
 
 .container {
   height: 100vh;
   position: relative;
-  border: 3px solid hsla(160, 100%, 37%, 1);;
+  /* border: 3px solid hsla(160, 100%, 37%, 1);; */
   overflow: scroll;
 }
 
@@ -126,7 +127,7 @@ button {
   margin: 0;
   position: absolute;
   top: 50%;
-    left: 50%;
+  left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
