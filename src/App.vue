@@ -119,7 +119,7 @@ button {
   height: 100vh;
   position: relative;
   /* border: 3px solid hsla(160, 100%, 37%, 1);; */
-  overflow: none;
+  overflow: hidden;
 }
 
 .quoteContainer {
