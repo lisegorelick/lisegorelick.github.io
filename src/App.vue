@@ -23,7 +23,7 @@ const quotes = [
   { text: "Take time today to pause, to linger, to quiet the noise and remember that your worth is not measured by your productivity." },
   { text: "The simplicity of owning what you love, wanting what you have, and being who you are is it's own form of wealth.", author: "Lisa Avellan" },
   { text: "Fall in love with taking care of yourself. Fall in love with the path of deep healing. Fall in love with becoming the best version of yourself but with patience, with compassion and respect to your own journey." , author: "s. mcnutt"},
-  { text: "When you get reactive, get curious. You have a wound that is asking to be healed", author: "Mark Groves" },
+  { text: "When you get reactive, get curious. You have a wound that is asking to be healed.", author: "Mark Groves" },
   { text: "One day you'll look back and realize that you worried too much about things that don't really matter" },
   { text: "Date yourself, first" },
   { text: "Respect is one of the greatest expressions of love", author: "Miguel Angel Ruiz" },
