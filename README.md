@@ -6,6 +6,12 @@ https://winterwisdom.github.io
 
 ---
 
+Sneak peak:
+
+<img width="379" alt="Screen Shot 2023-07-11 at 3 51 40 PM" src="https://github.com/winterwisdom/winterwisdom.github.io/assets/24485658/f2d392a8-c1fa-47c8-806f-3e4d0a19a730">
+
+---
+
 ### Project Setup
 
 ```sh
