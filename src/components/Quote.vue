@@ -28,7 +28,7 @@ defineProps({
 
 h3 {
   font-size: 1.2rem;
-  margin-bottom: 40px;
+  padding-bottom: 40px;
 
 }
 
