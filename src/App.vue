@@ -3,7 +3,6 @@ import Quote from './components/Quote.vue'
 import { ref } from 'vue'
 const quotes = [
   { text: "Life meanders like a path through the woods. We have seasons when we flourish and seasons when the leaves fall from us, revealing our bare bones. Given time, they grow again.", author: "Katherine May" },
-  { text: "Winter is not the death of the life cycle, but its crucible.", author: "Katherine May" },
   { text: "Life isn't about finding yourself. It's about creating yourself." },
   { text: "The goal of meditation isn't to control your thoughts. It's to stop letting them control you." },
   { text: "Everything is hard before it is easy." },
