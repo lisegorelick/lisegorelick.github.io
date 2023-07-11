@@ -27,7 +27,6 @@ const quotes = [
   { text: "One day you'll look back and realize that you worried too much about things that don't really matter" },
   { text: "Date yourself, first" },
   { text: "Respect is one of the greatest expressions of love", author: "Miguel Angel Ruiz" },
-  { text: "Study your patterns. The ultimate wisdom comes from knowing your why's. Why you feel it. Why you do it. Why you repeat it. Knowing your why's gives you clarity about who you are. And when you know who you are you become powerful, dangerous and unstoppable." },
   { text: "We all have 'issues' because we all have a story. And no matter how much work you've done on yourself, we all snap back sometimes. So be easy on you. Growth is a dance. Not a light switch." },
   { text: "Be so completely yourself that everyone else feels safe to be themselves too." },
   { text: "Something very beautiful happens to people when their world has fallen apart: a humility, a nobility, a higher intelligence emerges at just the point when our knees hit the floor.", author: "Marianne Williamson" },
@@ -120,7 +119,7 @@ button {
   height: 100vh;
   position: relative;
   /* border: 3px solid hsla(160, 100%, 37%, 1);; */
-  /* overflow: scroll; */
+  overflow: none;
 }
 
 .quoteContainer {
