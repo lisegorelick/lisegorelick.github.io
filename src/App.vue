@@ -120,6 +120,7 @@ button {
   /* position: relative; */
   /* border: 3px solid hsla(160, 100%, 37%, 1);; */
   /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .quoteContainer {

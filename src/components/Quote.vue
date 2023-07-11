@@ -40,6 +40,7 @@ h3 {
 
 .greetings {
   max-width: 480px;
+  overflow: hidden;
 }
 
 
